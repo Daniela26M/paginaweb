@@ -1,0 +1,14 @@
+.espacio{
+    padding-top: 80px;
+    padding-left: 80px;
+    align-items: center;
+}
+.fondo{
+    background-color: rgb(227, 204, 249);
+}
+.fontsize{
+    font-size: 60px;
+}
+.size{
+    font-size: 22px;
+}
